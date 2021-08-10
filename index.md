@@ -58,4 +58,16 @@ Please press the link below to see the details.
 
 ---
 
+## Designing a website by using HTML, CSS and JavaScript
 
+### Climate Change! Act Now 
+
+Please press the link below to view my website. 
+
+[ Climate Change! Act Now ](https://akhan-5165.trinket.io/sites/climatechange)
+
+**Summary:** This project was to develop a website by using HTML, CSS and JavaScript during the course called ‘Introduction to Web Development’ by Raspberry Foundation. In the first stage, I used HTML to lay out the webpages. Then I used clear CSS to style elements of the webpages consistently. Finally, I used JavaScript commands to make the quiz page more engaging for visitors. 
+
+<center><img src="Projects/Python_game/web.png"/></center>
+
+---
