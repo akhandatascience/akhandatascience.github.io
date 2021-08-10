@@ -1,4 +1,4 @@
-## Portfolio
+# Portfolio
 
 ---
 ## Applied Machine Learning Project in MATLAB
