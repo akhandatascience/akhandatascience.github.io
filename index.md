@@ -52,7 +52,7 @@ Please press the link below to see the details.
 
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/akhandatascience/akhandatascience.github.io/tree/main/Projects/Python_game)
 
-**Summary:** In this project, I designed a conceptual data model to represent the data requirements of the Help Desk scenario. In my model, I used the Entity Relationship (E-R) diagram to list the attributes of each entity and explain the relationship between various entities. I also discussed the assumptions I made during the design phase. By using the conceptual model, I developed a relational schema consisting of the definitions of the domains and relations that represent the entity and relationship types, including primary keys, foreign keys and any constraints. I used my database design to implement the Help Desk database using Oracle SQL DBMS. I used SQL DDL statements to create tables, insert data and queries to provide the required functionality. Finally, I used SQL DML statements to test the database by answering the selected questions designed by the database administrator. 
+**Summary:** This is the project I did at the end of the PCEP (Python Certified Entry-Level Programmer certification). This certification is a professional credential that measures your ability to accomplish coding tasks related to the essentials of programming in the Python language. In this project, I used various programming concepts like selection, iteration and using data types. I have demonstrated a solid understanding of resolving typical implementation challenges with the help of the Python Standard Library
 
 <center><img src="Projects/Python_game/game.png"/></center>
 
