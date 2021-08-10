@@ -15,6 +15,7 @@ Please press the link below to see the details.
 <center><img src="/ML_project/ML.png"></center>
 
 ---
+
 ## Exploratory Data Analysis 
 
 ### To Predict a species of a flower based on its characterstics by using Clustering  
@@ -28,8 +29,18 @@ Please press the link below to see the details.
 <center><img src="Projects/EDA/DE.png"/></center>
 
 ---
-[Project 3 Title](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+
+## Database Management 
+
+### Database Designing, Implementating and Testing of a Database   
+
+Please press the link below to see the details.
+
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/akhandatascience/akhandatascience.github.io/tree/main/Projects/DataBase)
+
+**Summary:** In this project, I designed a conceptual data model to represent the data requirements of the Help Desk scenario. In my model, I used the Entity Relationship (E-R) diagram to list the attributes of each entity and explain the relationship between various entities. I also discussed the assumptions I made during the design phase. By using the conceptual model, I developed a relational schema consisting of the definitions of the domains and relations that represent the entity and relationship types, including primary keys, foreign keys and any constraints. I used my database design to implement the Help Desk database using Oracle SQL DBMS. I used SQL DDL statements to create tables, insert data and queries to provide the required functionality. Finally, I used SQL DML statements to test the database by answering the selected questions designed by the database administrator. 
+
+<center><img src="Projects/DataBase/DB.png"/></center>
 
 ---
 
