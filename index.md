@@ -11,7 +11,7 @@ My complete implementation of assignments and projects are shown below
 
 **Plan of Action:** I used MATLAB programming environment to build and train various classification models by using the given data. In the first stage, I used pre-processing to fill the missing data and check for outliers. In the second stage, data normalisation was carried out. In the stage three, I used feature selections to focus on those data features that are most likely to produce accurate results by using the Parallel Coordinates Plot. In the stage four, I used three ML classification techniques called Decision Tree, SVM, and KNN to build and train models to solve the given problem. I also evaluated each model's performance by using percentage accuracy, prediction speed, training time, and AUC. In the last stage, I used performance matrix to comapre three models and used optimisation to select the best model.  
 
-<center><img src="../blob/main/ML_project/ML.png"/></center>
+<center><img src="https://github.com/akhandatascience/akhandatascience.github.io/blob/main/ML_project/ML.png"></center>
 
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
