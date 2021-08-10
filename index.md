@@ -5,7 +5,7 @@
 
 ### Using Machine Learning techniques to understand what are the reasons which can affect the heart attack
 
-My complete implementation of assignments and projects are shown below
+My complete implementation of this project is shown below:
 
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/akhandatascience/akhandatascience.github.io/tree/main/ML_project)
 
