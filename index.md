@@ -1,7 +1,7 @@
 ## Portfolio
 
 ---
-## Applied Machine Learning Project
+## Applied Machine Learning Project in MATLAB
 
 ### Using Machine Learning techniques to understand what are the reasons which can affect the heart attack
 
@@ -16,7 +16,7 @@ Please press the link below to see the details.
 
 ---
 
-## Exploratory Data Analysis 
+## Exploratory Data Analysis in Python 
 
 ### To Predict a species of a flower based on its characterstics by using Clustering  
 
@@ -30,7 +30,7 @@ Please press the link below to see the details.
 
 ---
 
-## Database Management 
+## Database Management by using Oracle SQL 
 
 ### Database Designing, Implementating and Testing of a Database   
 
@@ -44,9 +44,9 @@ Please press the link below to see the details.
 
 ---
 
-## Python Game Programming 
+## Game Programming in Python  
 
-### Tic-Toc-Game in Python    
+### Tic-Toc-Game     
 
 Please press the link below to see the details.
 
