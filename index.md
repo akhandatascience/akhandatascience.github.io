@@ -44,19 +44,18 @@ Please press the link below to see the details.
 
 ---
 
-### Category Name 2
+## Python Game Programming 
 
-- [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
+### Tic-Toc-Game in Python    
+
+Please press the link below to see the details.
+
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/akhandatascience/akhandatascience.github.io/tree/main/Projects/Python_game)
+
+**Summary:** In this project, I designed a conceptual data model to represent the data requirements of the Help Desk scenario. In my model, I used the Entity Relationship (E-R) diagram to list the attributes of each entity and explain the relationship between various entities. I also discussed the assumptions I made during the design phase. By using the conceptual model, I developed a relational schema consisting of the definitions of the domains and relations that represent the entity and relationship types, including primary keys, foreign keys and any constraints. I used my database design to implement the Help Desk database using Oracle SQL DBMS. I used SQL DDL statements to create tables, insert data and queries to provide the required functionality. Finally, I used SQL DML statements to test the database by answering the selected questions designed by the database administrator. 
+
+<center><img src="Projects/Python_game/game.png"/></center>
 
 ---
 
 
-
-
----
-
-<!-- Remove above link if you don't want to attibute -->
