@@ -1,5 +1,5 @@
 title: <p align="center"> Muhammad Asif Khan </p> # your name (or website title) here
-logo: "/images/best.jpg?raw=true" # your photo (or logo) here
+logo: <p align="center"> "/images/best.jpg?raw=true" </p> # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
   <p align="justify">
   I am a hardworking, passionate, and  fast learning individual who is currently seeking to change my professional career from teaching to Data Science. 
