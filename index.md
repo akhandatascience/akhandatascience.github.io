@@ -1,6 +1,22 @@
 # Portfolio
 
 ---
+## Developing Artifical Neural Networks (ANN) in PYTHON 
+
+### Using Deep Learning to understand customers churn rates of a bank 
+
+Please press the link below to see the details. 
+
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/akhandatascience/akhandatascience.github.io/blob/main/Projects/Deep_Learning/ANN.yml)
+
+
+**Summary:** This is project on understanding customers churn rates by using Artifical Neural Network (ANN). I used a small sample of 1000 customers and used three layers i.e. an input layer, an output layer and multiple hidden layer to identify which customers are at highest risk of leaving. In the first part,I performed data processing involving few steps like importing the data, encoding categorical data, and splitting the dataset into training and test set. The part two 2 was about creating ANN model consisting of three layers by using approperiate actictation function for each layer. Finally, I compiled the ANN and fit it to the training set 
+by using 100 epochs. In the last part, I used the test data for the prediction and evaluated the the performance of my model by using confusion matrix.  
+  
+<center><img src="/Projects/Deep_Learning/ANN.png"></center>
+
+---
+
 ## Applied Machine Learning Project in MATLAB
 
 ### Using Machine Learning techniques to understand what are the reasons which can affect the heart attack
