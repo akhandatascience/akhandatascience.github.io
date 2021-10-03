@@ -3,7 +3,7 @@
 ---
 ## Developing Artifical Neural Networks (ANN) in PYTHON 
 
-### Using Deep Learning to understand customers churn rates of a bank 
+### Using Deep Learning to understand customers churn rates  
 
 Please press the link below to see the details. 
 
