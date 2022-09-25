@@ -11,3 +11,4 @@ description: > # your text below (remove <br> elements if you don't need line br
   </p>
   <a href="https://www.linkedin.com/in/akhandatascience">View My LinkedIn Profile</a> 
   
+  theme: jekyll-theme-minimal 
