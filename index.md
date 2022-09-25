@@ -1,6 +1,21 @@
 # Portfolio
 
 ---
+## Research paper on using Artificial Intelligence (AI) in stock market prediction
+
+### Evaluate the prediction of Machine Learning models by using real-time financial data  
+
+Please press the link below to see the details. 
+
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/akhandatascience/akhandatascience.github.io/blob/main/Projects/Deep_Learning/Muhammad_Asif_Khan_Dissertation.pdf)
+
+
+**Summary:** It was my final dissertation reserach project. The focus of this research was to find out how to use AI and ML to predict the share price of a given stock for an investor to gain the maximum profit. The world financial institutions are generating and accumulating petabytes of data about their customers behaviours; which is commonly known as ‘Big Data’ and it is very important for banks and financial institutions to understand this data, uncover hidden patterns, and produce accurate models to make important decisions accurately. In this study, I employed various Artificial Intelligence (AI) and its subset Machine Learning (ML) and Deep Learning (DL) techniques which have revolutionised and transformed the analysis of Big Data. This study has shown that deep learning technique can be used to understand complex trends and irregular variations in the financial trade data by using the power of its hidden multiple layers and non-linear optimisation kernels. 
+  
+<center><img src="/Projects/Deep_Learning/dissertationPic.jpg"></center>
+
+---
+
 ## Developing Artifical Neural Networks (ANN) in PYTHON 
 
 ### Using Deep Learning to understand customers churn rates  
